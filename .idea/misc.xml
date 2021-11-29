@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/border.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/slider.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/slider_selected_dot.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/slider_unselected_dot.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/team_image_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/drawable/tournament_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/activity_create_tournament.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/activity_set_up_tournament.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/fixtures_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/fragment_fixtures.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/fragment_table.xml" value="0.264" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/fragment_teams_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/fragment_tournament_details.xml" value="0.264" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/match_details_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/new_team_rows.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/table_rows.xml" value="0.4" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/team_details_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/arsenic/AndroidStudioProjects/PPL/app/src/main/res/layout/tournament_row.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
